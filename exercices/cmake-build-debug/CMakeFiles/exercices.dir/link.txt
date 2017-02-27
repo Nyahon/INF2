@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/exercices.dir/main.cpp.o CMakeFiles/exercices.dir/ex7_1.cpp.o  -o exercices 

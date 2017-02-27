@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nyahon/dev/C++/S2/exercices/ex7_1.cpp
+ex7_1.h
+/home/nyahon/dev/C++/S2/exercices/ex7_1.h
+
+/home/nyahon/dev/C++/S2/exercices/ex7_1.h
+string
+-
+
+/home/nyahon/dev/C++/S2/exercices/main.cpp
+iostream
+-
+ex7_1.h
+/home/nyahon/dev/C++/S2/exercices/ex7_1.h
+vector
+-
+

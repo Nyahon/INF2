@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nyahon/dev/C++/S2/labo1/draw.cpp
+draw.h
+/home/nyahon/dev/C++/S2/labo1/draw.h
+iostream
+-
+
+/home/nyahon/dev/C++/S2/labo1/draw.h
+vector
+-
+
+/home/nyahon/dev/C++/S2/labo1/main.cpp
+draw.h
+/home/nyahon/dev/C++/S2/labo1/draw.h
+cstdlib
+-
+vector
+-
+iostream
+-
+
