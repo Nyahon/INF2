@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/labo2bis.dir/main.cpp.o CMakeFiles/labo2bis.dir/improc.cpp.o CMakeFiles/labo2bis.dir/bmp.cpp.o  -o labo2bis 

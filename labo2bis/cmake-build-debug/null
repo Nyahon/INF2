@@ -1,0 +1,12 @@
+
+** (shotwell:31365): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-5FyLJAOyv9: Connexion refusée
+
+(shotwell:31365): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2375:52: Expected number in color definition
+
+(shotwell:31365): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2850:0: '' is not a valid color name
+
+(shotwell:31365): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:3827:22: 'none' is not a valid color name
+
+(shotwell:31365): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:3848:22: 'none' is not a valid color name
+
+(shotwell:31365): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:4109:19: Missing name of pseudo-class

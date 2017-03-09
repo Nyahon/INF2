@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="labo2bis"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="labo2bis">
+				<Option output="/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/labo2bis" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 labo2bis"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="labo2bis/fast">
+				<Option output="/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/labo2bis" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 labo2bis/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/nyahon/dev/C++/S2/labo2bis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/nyahon/dev/C++/S2/labo2bis/bmp.cpp">
+			<Option target="labo2bis"/>
+		</Unit>
+		<Unit filename="/home/nyahon/dev/C++/S2/labo2bis/bmp.h">
+			<Option target="labo2bis"/>
+		</Unit>
+		<Unit filename="/home/nyahon/dev/C++/S2/labo2bis/improc.cpp">
+			<Option target="labo2bis"/>
+		</Unit>
+		<Unit filename="/home/nyahon/dev/C++/S2/labo2bis/improc.h">
+			<Option target="labo2bis"/>
+		</Unit>
+		<Unit filename="/home/nyahon/dev/C++/S2/labo2bis/main.cpp">
+			<Option target="labo2bis"/>
+		</Unit>
+		<Unit filename="/home/nyahon/dev/C++/S2/labo2bis/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
